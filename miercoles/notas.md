@@ -74,3 +74,5 @@ Luego de que se han realizado los cambios sobre el repositorio, el usuario puede
 
  (git commit -m "mensaje").- Esta opcion es un atajo del commit tradicional, la unica diferecnia es que no es posible especificar el cuerpo del commit solo el titulo del mismo.
 ```
+
+Prueba
